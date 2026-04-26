@@ -25,4 +25,4 @@ class TestStrings:
 
 class TestMultiply:
     def test_multiple(self):
-        assert multiple(2, 3) == 6
+        assert multiple(2, 9) == 6
